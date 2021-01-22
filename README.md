@@ -1,6 +1,13 @@
 
-<h1 align="center">User api</h1>
+# User api
+
+## Api desenvolvida para fazer cadastro, exclusão e edição usuários.
 
 <p align="center">
-   Api desenvolvida em Nest.js + typescript +GraphQL para cadastrar e consultar usuários.
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#roadmap">Roadmap</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contribuicao">Contribuição</a> • 
+ <a href="#licenc-a">Licença</a> • 
+ <a href="#autor">Autor</a>
 </p>
