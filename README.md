@@ -58,4 +58,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com ❤️ por Marcilia 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcilia-guilger-62661933/)]
+[![Linkedin Badge](https://img.shields.io/badge/-Marcilia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcilia-guilger-62661933/)]
