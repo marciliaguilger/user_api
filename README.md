@@ -45,3 +45,17 @@ $ npm run start:dev
 
 # O servidor inciará na porta:3000 - acesse para utilizar a interface GraphQL <http://localhost:3000/graphql>
 ```
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://nestjs.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+
+### Autora
+
+Feito com ❤️ por Marcilia 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcilia-guilger-62661933/)]
