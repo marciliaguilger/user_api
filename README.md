@@ -41,6 +41,9 @@ $ git clone <https://github.com/marciliaguilger/user_api.git>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd user_api
 
+# copie o .env.example
+$ cp .env.example .env
+
 # Suba a imagem docker
 $ docker-compose up
 
