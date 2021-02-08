@@ -27,11 +27,25 @@
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), 
 [Node.js](https://nodejs.org/en/),
-[PostgreSQL](https://www.postgresql.org/)
+[PostgreSQL](https://www.postgresql.org/),
+[Docker](https://www.docker.com/)
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando o Back End (servidor) via Docker
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/marciliaguilger/user_api.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd user_api
+
+# Suba a imagem docker
+$ docker-compose up
+
+
+### 🎲 Rodando o Back End (servidor) na maquina local
 
 ```bash
 # Clone este repositório
